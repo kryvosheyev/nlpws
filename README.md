@@ -1,5 +1,5 @@
 # nlpws
-20.04.2018, Kiev
+04/20/2018, Kiev
 
 NLP for tweets (workshop)
 
